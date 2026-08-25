@@ -32,7 +32,7 @@ The core contribution is not a new classifier. It is a **decision-oriented analy
 ## Framework
 
 <p align="center">
-  <img src="proposed_framework.png" alt="Decision-oriented analytical framework" width="900">
+  <img src="proposed framework.png" alt="Decision-oriented analytical framework" width="900">
 </p>
 
 The pipeline covers:
