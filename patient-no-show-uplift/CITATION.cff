@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software or the framework it implements, please cite the paper below."
+title: "From Prediction Toward Action: Integrating Explainable Risk Modeling and Exploratory Uplift Analysis for Patient No-Show Management"
+type: software
+authors:
+  - name: "TODO: add author list"
+repository-code: "https://github.com/rajandasguptaml/From-Prediction-Toward-Action"
+license: MIT
+year: 2026
+keywords:
+  - patient no-show
+  - appointment scheduling
+  - machine learning
+  - uplift modeling
+  - explainable artificial intelligence
+  - decision support
