@@ -4,7 +4,7 @@ title: "From Prediction Toward Action: Integrating Explainable Risk Modeling and
 type: software
 authors:
   - name: "TODO: add author list"
-repository-code: "https://github.com/rajandasguptaml/From-Prediction-Toward-Action"
+repository-code: "https://github.com/rajandasguptaml/research/tree/main/patient-no-show-uplift"
 license: MIT
 year: 2026
 keywords:

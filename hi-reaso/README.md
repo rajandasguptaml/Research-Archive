@@ -138,5 +138,5 @@ If you use this dataset, please cite this repository:
 
 ```
 HI-REASOH: A Hindi Reasoning Benchmark Dataset for Large Language Models.
-https://github.com/rajandasguptaml/HI-REASOH_Dataset
+https://github.com/rajandasguptaml/research/tree/main/hi-reaso
 ```
