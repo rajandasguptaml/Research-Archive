@@ -15,7 +15,6 @@ More at [rajandasguptaml.github.io](https://rajandasguptaml.github.io/) and the
 |---|---|---|---|
 | [hi-reaso](hi-reaso/) | HI-REASO: Hindi numerical-reasoning benchmark for LLMs. Full 3,255-question pool across six tasks, plus two 1,000-question evaluation splits. | [Findings of EMNLP 2026](https://aclanthology.org/2026.findings-emnlp.481/) | 2026 |
 | [patient-no-show-uplift](patient-no-show-uplift/) | From Prediction Toward Action: explainable no-show risk modeling and exploratory uplift analysis for appointment management. | see folder README and CITATION.cff | 2026 |
-| [zenqa-dzongkha](zenqa-dzongkha/) | ZEnQA: parallel Dzongkha-English evaluation suite for foundation models. Data release in progress. | preprint, see publications page | 2025 |
 | [neonatal-death-sao-paulo](neonatal-death-sao-paulo/) | Deep learning and classical ML models (KNN, SVC, logistic regression, random forest, XGBoost) to predict neonatal death from Sao Paulo birth records. | [IJPHS](https://doi.org/10.11591/ijphs.v13i1.22577) | 2022 |
 | [brain-tumor-cnn](brain-tumor-cnn/) | Brain tumor detection in MRI with Faster R-CNN, plus MNIST CNN baselines and the course report. Computer vision coursework. | course project | 2021 |
 | [ml-competitions-practice](ml-competitions-practice/) | HackerEarth competition notebooks (A Fine Windy Day, Slashing Prices, Pet Adoption) and practice notebooks from Chollet and Geron. | - | 2021 |
