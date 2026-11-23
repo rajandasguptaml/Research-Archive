@@ -1,6 +1,8 @@
-# HI-REASOH Dataset
+# HI-REASO Dataset
 
-**HI-REASOH** is a Hindi-language benchmark for evaluating the reasoning abilities of large language models (LLMs). It covers six reasoning tasks — commonsense arithmetic, domain-specific STEM questions, commonsense comparison, fill-in-the-blank, natural language inference, and arithmetic word problems — written in Hindi (Devanagari script, Devanagari numerals) and grounded in an Indian context (Indian names, places, and currency in रुपये).
+Data release for the paper **HI-REASO: A Multi-Level Multi-Faceted Hindi Mathematical Evaluation Suite for Foundation Models** (Md Tanzib Hosain, Rajan Das Gupta, Zannatul Fardaush Tripty, Md Kishor Morol), *Findings of the Association for Computational Linguistics: EMNLP 2026*, pages 10090-10112. [Paper](https://aclanthology.org/2026.findings-emnlp.481/) | [Official evaluation code](https://github.com/kraritt/hi-reaso)
+
+**HI-REASO** is a Hindi-language benchmark for evaluating the reasoning abilities of large language models (LLMs). It covers six reasoning tasks — commonsense arithmetic, domain-specific STEM questions, commonsense comparison, fill-in-the-blank, natural language inference, and arithmetic word problems — written in Hindi (Devanagari script, Devanagari numerals) and grounded in an Indian context (Indian names, places, and currency in रुपये).
 
 The repository ships two things:
 
@@ -130,13 +132,24 @@ print(len(split))  # 150
 
 ## Intended Use
 
-HI-REASOH is intended for benchmarking the Hindi reasoning capabilities of LLMs — zero-shot or few-shot evaluation of arithmetic, commonsense, domain knowledge, and inference in a low-resource language setting. Use `Codes/Run_*` for a fixed, comparable 1,000-question evaluation, or `Dataset/` for the full pool.
+HI-REASO is intended for benchmarking the Hindi reasoning capabilities of LLMs — zero-shot or few-shot evaluation of arithmetic, commonsense, domain knowledge, and inference in a low-resource language setting. Use `Codes/Run_*` for a fixed, comparable 1,000-question evaluation, or `Dataset/` for the full pool.
 
 ## Citation
 
-If you use this dataset, please cite this repository:
+If you use this dataset, please cite the paper:
 
+```bibtex
+@inproceedings{hosain-etal-2026-hi-reaso,
+  title     = {{HI-REASO}: A Multi-Level Multi-Faceted {H}indi Mathematical Evaluation Suite for Foundation Models},
+  author    = {Hosain, Md Tanzib and Gupta, Rajan Das and Tripty, Zannatul Fardaush and Morol, Md Kishor},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
+  publisher = {Association for Computational Linguistics},
+  year      = {2026},
+  pages     = {10090--10112},
+  doi       = {10.18653/2026.findings-emnlp.481},
+  url       = {https://aclanthology.org/2026.findings-emnlp.481/}
+}
 ```
-HI-REASOH: A Hindi Reasoning Benchmark Dataset for Large Language Models.
-https://github.com/rajandasguptaml/research/tree/main/hi-reaso
-```
+
+The evaluation code used in the paper is maintained at https://github.com/kraritt/hi-reaso. This folder holds the
+dataset files and the two random evaluation splits: https://github.com/rajandasguptaml/research/tree/main/hi-reaso

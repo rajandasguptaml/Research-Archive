@@ -31,6 +31,8 @@ system for Alzheimer's detection and monitoring (ICMLA 2025, first author).
 Large or third-party data files were removed from the history to keep this repository small. Each affected folder
 has a DATA.md that lists the removed files and where to obtain them.
 
-## Licenses
+## License
 
-Each project folder carries its own license where one was present (for example MIT in patient-no-show-uplift).
+Everything in this repository is released under the MIT License (see [LICENSE](LICENSE)) unless a folder contains
+its own license file, in which case that file applies to that folder (patient-no-show-uplift has one). Each folder
+with notebooks has a requirements.txt listing the packages its code imports.
