@@ -14,8 +14,8 @@ More at [rajandasguptaml.github.io](https://rajandasguptaml.github.io/) and the
 | Repository | Paper | Venue |
 |---|---|---|
 | [BRAINS](https://github.com/rajandasguptaml/BRAINS) | BRAINS: retrieval-augmented system for Alzheimer's detection and monitoring | ICMLA 2025 |
-| [HI-REASO-dataset](https://github.com/rajandasguptaml/HI-REASO-dataset) | HI-REASO: Hindi numerical-reasoning benchmark for foundation models | Findings of EMNLP 2026 |
-| [neonatal-mortality-prediction](https://github.com/rajandasguptaml/neonatal-mortality-prediction) | Machine and deep learning to predict neonatal death in São Paulo | IJPHS 2024 |
+| [HI-REASO](https://github.com/rajandasguptaml/HI-REASO) | HI-REASO: Hindi numerical-reasoning benchmark for foundation models | Findings of EMNLP 2026 |
+| [Neonatal-Mortality-Prediction](https://github.com/rajandasguptaml/Neonatal-Mortality-Prediction) | Machine and deep learning to predict neonatal death in São Paulo | IJPHS 2024 |
 
 ## In this repository
 
