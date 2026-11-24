@@ -16,6 +16,8 @@ More at [rajandasguptaml.github.io](https://rajandasguptaml.github.io/) and the
 | [BRAINS](https://github.com/rajandasguptaml/BRAINS) | BRAINS: retrieval-augmented system for Alzheimer's detection and monitoring | ICMLA 2025 |
 | [HI-REASO](https://github.com/rajandasguptaml/HI-REASO) | HI-REASO: Hindi numerical-reasoning benchmark for foundation models | Findings of EMNLP 2026 |
 | [Neonatal-Mortality-Prediction](https://github.com/rajandasguptaml/Neonatal-Mortality-Prediction) | Machine and deep learning to predict neonatal death in São Paulo | IJPHS 2024 |
+| [ViMoNet](https://github.com/rajandasguptaml/ViMoNet) | ViMoNet: vision-language framework for human behavior understanding from motion and video | AIBDF 2025 |
+| [xai-cnn-refinement](https://github.com/rajandasguptaml/xai-cnn-refinement) | From Explanations to Architecture: explainability-driven CNN refinement for brain tumor MRI | BIC 2026 |
 
 ## In this repository
 
